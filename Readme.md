@@ -1,7 +1,7 @@
-using System;
+    using System;
 
-class Task2
-{
+    class Task2
+    {
     static void Main()
     {
         int[][] numberMatrix = new int[][]
@@ -18,4 +18,4 @@ class Task2
 
         Console.WriteLine(finalKey);
     }
-}
+    }
